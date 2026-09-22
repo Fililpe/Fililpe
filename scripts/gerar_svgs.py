@@ -45,6 +45,7 @@ SECOES = {
     "sobre": "~/sobre",
     "lab": "~/homelab",
     "projetos": "~/projetos",
+    "atividade": "tail -f atividade.log",
     "estudando": "~/estudando",
     "stack": "~/stack",
     "contato": "~/contato",

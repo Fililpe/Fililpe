@@ -70,6 +70,16 @@ flowchart LR
 </p>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/secao-atividade-dark.svg">
+  <img src="assets/secao-atividade-light.svg" alt="tail -f atividade.log" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/atividade-dark.svg">
+  <img src="assets/atividade-light.svg" alt="Meus últimos commits em repositórios públicos" width="100%">
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/secao-estudando-dark.svg">
   <img src="assets/secao-estudando-light.svg" alt="~/estudando" width="100%">
 </picture>

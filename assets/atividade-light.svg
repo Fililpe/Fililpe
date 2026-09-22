@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="226" viewBox="0 0 860 226" role="img" aria-label="Meus últimos commits públicos. Fililpe: README do perfil com SVGs de terminal; victorjls21/Vagrant-Jenkins: ci: adiciona pipeline com SAST (Semgrep) e DAST (OWASP ZAP); safe-console-c: docs: marca etapas 1 e 2 como concluidas; safe-console-c: feat: adiciona menu interativo com do-while e switch; safe-console-c: feat: adiciona cifra xor com exibicao hexadecimal">
+<title>Meus últimos commits públicos. Fililpe: README do perfil com SVGs de terminal; victorjls21/Vagrant-Jenkins: ci: adiciona pipeline com SAST (Semgrep) e DAST (OWASP ZAP); safe-console-c: docs: marca etapas 1 e 2 como concluidas; safe-console-c: feat: adiciona menu interativo com do-while e switch; safe-console-c: feat: adiciona cifra xor com exibicao hexadecimal</title>
+<style>
+
+text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 14px; }
+.data { fill: #656d76; }
+.repo { fill: #0969da; }
+.msg { fill: #1f2328; }
+.linha { opacity: 0; animation: surge .4s ease-out forwards; }
+.cursor { fill: #1a7f37; opacity: 0; animation: surge .01s 2.05s forwards,
+  pisca 1s steps(1) 2.05s infinite; }
+@keyframes surge { to { opacity: 1; } }
+@keyframes pisca { 50% { opacity: 0; } }
+
+</style>
+<rect x="0.5" y="0.5" width="859" height="225" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+<path d="M0.5 36 V10.5 a10 10 0 0 1 10 -10 H849.5 a10 10 0 0 1 10 10 V36 Z" fill="#eaeef2" stroke="#d0d7de"/>
+<circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+<circle cx="42" cy="18" r="6" fill="#febc2e"/>
+<circle cx="62" cy="18" r="6" fill="#28c840"/>
+<text x="430.0" y="23" text-anchor="middle" style="font-size:13px" fill="#656d76">atividade.log</text>
+<g class="linha" style="animation-delay:0.30s"><text x="28" y="66" class="data">[hoje]</text><text x="154.0" y="66" class="repo">Fililpe</text><text x="397.6" y="66" class="msg">README do perfil com SVGs de terminal</text></g>
+<g class="linha" style="animation-delay:0.65s"><text x="28" y="92" class="data">[ontem]</text><text x="154.0" y="92" class="repo">victorjls21/Vagrant-Jenkins</text><text x="397.6" y="92" class="msg">ci: adiciona pipeline com SAST (Semgrep) e DAST (O…</text></g>
+<g class="linha" style="animation-delay:1.00s"><text x="28" y="118" class="data">[ontem]</text><text x="154.0" y="118" class="repo">safe-console-c</text><text x="397.6" y="118" class="msg">docs: marca etapas 1 e 2 como concluidas</text></g>
+<g class="linha" style="animation-delay:1.35s"><text x="28" y="144" class="data">[ontem]</text><text x="154.0" y="144" class="repo">safe-console-c</text><text x="397.6" y="144" class="msg">feat: adiciona menu interativo com do-while e swit…</text></g>
+<g class="linha" style="animation-delay:1.70s"><text x="28" y="170" class="data">[ontem]</text><text x="154.0" y="170" class="repo">safe-console-c</text><text x="397.6" y="170" class="msg">feat: adiciona cifra xor com exibicao hexadecimal</text></g>
+<rect class="cursor" x="28" y="184" width="8.4" height="16"/>
+</svg>

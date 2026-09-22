@@ -1,0 +1,41 @@
+name: atividade
+
+on:
+  schedule:
+    - cron: "17 9 * * *" # todo dia às 06:17 em Recife (09:17 UTC)
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Só o necessário para commitar o SVG. Todo o resto fica sem permissão.
+permissions:
+  contents: write
+
+# Evita duas execuções tentando dar push ao mesmo tempo.
+concurrency:
+  group: atividade
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Gerar SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 -B scripts/atividade.py
+
+      - name: Commitar se mudou
+        run: |
+          git add assets/atividade-dark.svg assets/atividade-light.svg
+          if git diff --cached --quiet; then
+            echo "SVG igual ao anterior, nada para commitar."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "atividade: atualiza últimos commits"
+          git push
