@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="226" viewBox="0 0 860 226" role="img" aria-label="Meus últimos commits públicos. victorjls21/Vagrant-Jenkins: ci: adiciona Jenkinsfile com deploy na VM prod; meu-app-docker: feat(docker): adiciona app Python em container; meu-app-docker: Initial commit; wazuh-purple-lab: Documenta regra 5763 (brute force, MITRE T1110) na deteccao; wazuh-purple-lab: Adiciona script guiado para religar o lab">
-<title>Meus últimos commits públicos. victorjls21/Vagrant-Jenkins: ci: adiciona Jenkinsfile com deploy na VM prod; meu-app-docker: feat(docker): adiciona app Python em container; meu-app-docker: Initial commit; wazuh-purple-lab: Documenta regra 5763 (brute force, MITRE T1110) na deteccao; wazuh-purple-lab: Adiciona script guiado para religar o lab</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="226" viewBox="0 0 860 226" role="img" aria-label="Meus últimos commits públicos. Projeto-DevOps-para-projetos-web: chore: adiciona estrutura inicial do projeto; Projeto-DevOps-para-projetos-web: Initial commit; victorjls21/Vagrant-Jenkins: ci: adiciona Jenkinsfile com deploy na VM prod; meu-app-docker: feat(docker): adiciona app Python em container; meu-app-docker: Initial commit">
+<title>Meus últimos commits públicos. Projeto-DevOps-para-projetos-web: chore: adiciona estrutura inicial do projeto; Projeto-DevOps-para-projetos-web: Initial commit; victorjls21/Vagrant-Jenkins: ci: adiciona Jenkinsfile com deploy na VM prod; meu-app-docker: feat(docker): adiciona app Python em container; meu-app-docker: Initial commit</title>
 <style>
 
 text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 14px; }
@@ -19,10 +19,10 @@ text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation M
 <circle cx="42" cy="18" r="6" fill="#febc2e"/>
 <circle cx="62" cy="18" r="6" fill="#28c840"/>
 <text x="430.0" y="23" text-anchor="middle" style="font-size:13px" fill="#656d76">atividade.log</text>
-<g class="linha" style="animation-delay:0.30s"><text x="28" y="66" class="data">[há 7 dias]</text><text x="154.0" y="66" class="repo">victorjls21/Vagrant-Jenkins</text><text x="397.6" y="66" class="msg">ci: adiciona Jenkinsfile com deploy na VM prod</text></g>
-<g class="linha" style="animation-delay:0.65s"><text x="28" y="92" class="data">[há 7 dias]</text><text x="154.0" y="92" class="repo">meu-app-docker</text><text x="397.6" y="92" class="msg">feat(docker): adiciona app Python em container</text></g>
-<g class="linha" style="animation-delay:1.00s"><text x="28" y="118" class="data">[há 7 dias]</text><text x="154.0" y="118" class="repo">meu-app-docker</text><text x="397.6" y="118" class="msg">Initial commit</text></g>
-<g class="linha" style="animation-delay:1.35s"><text x="28" y="144" class="data">[há 12 dias]</text><text x="154.0" y="144" class="repo">wazuh-purple-lab</text><text x="397.6" y="144" class="msg">Documenta regra 5763 (brute force, MITRE T1110) na…</text></g>
-<g class="linha" style="animation-delay:1.70s"><text x="28" y="170" class="data">[há 12 dias]</text><text x="154.0" y="170" class="repo">wazuh-purple-lab</text><text x="397.6" y="170" class="msg">Adiciona script guiado para religar o lab</text></g>
+<g class="linha" style="animation-delay:0.30s"><text x="28" y="66" class="data">[ontem]</text><text x="154.0" y="66" class="repo">Projeto-DevOps-para-projet…</text><text x="397.6" y="66" class="msg">chore: adiciona estrutura inicial do projeto</text></g>
+<g class="linha" style="animation-delay:0.65s"><text x="28" y="92" class="data">[ontem]</text><text x="154.0" y="92" class="repo">Projeto-DevOps-para-projet…</text><text x="397.6" y="92" class="msg">Initial commit</text></g>
+<g class="linha" style="animation-delay:1.00s"><text x="28" y="118" class="data">[há 8 dias]</text><text x="154.0" y="118" class="repo">victorjls21/Vagrant-Jenkins</text><text x="397.6" y="118" class="msg">ci: adiciona Jenkinsfile com deploy na VM prod</text></g>
+<g class="linha" style="animation-delay:1.35s"><text x="28" y="144" class="data">[há 8 dias]</text><text x="154.0" y="144" class="repo">meu-app-docker</text><text x="397.6" y="144" class="msg">feat(docker): adiciona app Python em container</text></g>
+<g class="linha" style="animation-delay:1.70s"><text x="28" y="170" class="data">[há 8 dias]</text><text x="154.0" y="170" class="repo">meu-app-docker</text><text x="397.6" y="170" class="msg">Initial commit</text></g>
 <rect class="cursor" x="28" y="184" width="8.4" height="16"/>
 </svg>
