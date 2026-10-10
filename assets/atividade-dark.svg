@@ -19,10 +19,10 @@ text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation M
 <circle cx="42" cy="18" r="6" fill="#febc2e"/>
 <circle cx="62" cy="18" r="6" fill="#28c840"/>
 <text x="430.0" y="23" text-anchor="middle" style="font-size:13px" fill="#8b949e">atividade.log</text>
-<g class="linha" style="animation-delay:0.30s"><text x="28" y="66" class="data">[hoje]</text><text x="154.0" y="66" class="repo">Saul0RS/EvilTwin-Esp32</text><text x="397.6" y="66" class="msg">docs: adiciona aviso ético e arquitetura em fases …</text></g>
-<g class="linha" style="animation-delay:0.65s"><text x="28" y="92" class="data">[ontem]</text><text x="154.0" y="92" class="repo">docker-mysql-apache</text><text x="397.6" y="92" class="msg">docs: explica por que as duas atividades estão no …</text></g>
-<g class="linha" style="animation-delay:1.00s"><text x="28" y="118" class="data">[ontem]</text><text x="154.0" y="118" class="repo">docker-mysql-apache</text><text x="397.6" y="118" class="msg">feat: VM com Docker, container MySQL e site Apache…</text></g>
-<g class="linha" style="animation-delay:1.35s"><text x="28" y="144" class="data">[há 3 dias]</text><text x="154.0" y="144" class="repo">Projeto-DevOps-para-projet…</text><text x="397.6" y="144" class="msg">chore: adiciona estrutura inicial do projeto</text></g>
-<g class="linha" style="animation-delay:1.70s"><text x="28" y="170" class="data">[há 3 dias]</text><text x="154.0" y="170" class="repo">Projeto-DevOps-para-projet…</text><text x="397.6" y="170" class="msg">Initial commit</text></g>
+<g class="linha" style="animation-delay:0.30s"><text x="28" y="66" class="data">[ontem]</text><text x="154.0" y="66" class="repo">Saul0RS/EvilTwin-Esp32</text><text x="397.6" y="66" class="msg">docs: adiciona aviso ético e arquitetura em fases …</text></g>
+<g class="linha" style="animation-delay:0.65s"><text x="28" y="92" class="data">[há 2 dias]</text><text x="154.0" y="92" class="repo">docker-mysql-apache</text><text x="397.6" y="92" class="msg">docs: explica por que as duas atividades estão no …</text></g>
+<g class="linha" style="animation-delay:1.00s"><text x="28" y="118" class="data">[há 2 dias]</text><text x="154.0" y="118" class="repo">docker-mysql-apache</text><text x="397.6" y="118" class="msg">feat: VM com Docker, container MySQL e site Apache…</text></g>
+<g class="linha" style="animation-delay:1.35s"><text x="28" y="144" class="data">[há 4 dias]</text><text x="154.0" y="144" class="repo">Projeto-DevOps-para-projet…</text><text x="397.6" y="144" class="msg">chore: adiciona estrutura inicial do projeto</text></g>
+<g class="linha" style="animation-delay:1.70s"><text x="28" y="170" class="data">[há 4 dias]</text><text x="154.0" y="170" class="repo">Projeto-DevOps-para-projet…</text><text x="397.6" y="170" class="msg">Initial commit</text></g>
 <rect class="cursor" x="28" y="184" width="8.4" height="16"/>
 </svg>
